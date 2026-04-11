@@ -9,12 +9,12 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Conferences"
+  - title: "Presentations"
     url: /talks/      
     
   - title: "CV"
