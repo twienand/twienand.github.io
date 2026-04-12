@@ -8,7 +8,7 @@ author_profile: true
 
 ## Work in Progress
 
-Opportunity-sensitive social welfare (with Paul Hufe, Brice Magdalou, Richard Nock) 
+Opportunity-sensitive social welfare (with Paul Hufe, Brice Magdalou, Richard Nock)
 - [Working paper](https://arxiv.org/abs/2603.26853)
 
 Within-family dynamics of human capital formation: Experimental evidence on parental time investment (with Hans van Kippersluis and Niels Rietveld) 
