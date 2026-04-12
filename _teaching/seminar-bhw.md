@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecturer"
 #permalink: /teaching/seminar-bhw
 venue: "Erasmus University Rotterdam"
-date: 2025,2026
+date: 2025-01-01
 location: "Rotterdam"
 ---
 
