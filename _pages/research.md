@@ -9,10 +9,9 @@ author_profile: true
 ## Work in Progress
 
 Opportunity-sensitive social welfare (with Paul Hufe, Brice Magdalou, Richard Nock) 
-- [Paper](https://arxiv.org/abs/2603.26853)
+- [Working paper](https://arxiv.org/abs/2603.26853)
 
 Within-family dynamics of human capital formation: Experimental evidence on parental time investment (with Hans van Kippersluis and Niels Rietveld) 
-
 - Draft available upon request
 
 Genetic and environmental contributions to socioeconomic inequality in the Netherlands — A longitudinal
