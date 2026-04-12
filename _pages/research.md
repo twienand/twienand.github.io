@@ -5,10 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
+
 ## Work in Progress
 
-- Paper title one
+Opportunity-sensitive social welfare (with Paul Hufe, Brice Magdalou, Richard Nock) 
+- [Paper](https://arxiv.org/abs/2603.26853)
 
-- Paper title two
+Within-family dynamics of human capital formation: Experimental evidence on parental time investment (with Hans van Kippersluis and Niels Rietveld) 
 
-- Paper title three
+- Draft available upon request
+
+Genetic and environmental contributions to socioeconomic inequality in the Netherlands — A longitudinal
+perspective (with Hans van Kippersluis and Niels Rietveld)
+
+The origins of social inequalities in the Netherlands: Evidence from adoptees (with Alexandros Giannelis and Niels Rietveld)
+
+Family environments and the intergenerational transmission of entrepreneurship (with Niels Rietveld)
+
+
