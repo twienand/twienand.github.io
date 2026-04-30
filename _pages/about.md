@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am a third-year PhD candidate at the Erasmus School of Economics in Rotterdam and Tinbergen Institute
-as part of the [European Social Science Genetics Network (ESSGN)](https://essgn.org/about/).
+I am a third-year PhD candidate at the Erasmus School of Economics in Rotterdam and Tinbergen Institute.
+I am also a Marie Curie doctoral candidate as part of the [European Social Science Genetics Network (ESSGN)](https://essgn.org/about/).
 
 In my research, I use administrative, survey, and experimental data to study 
 the determinants of educational and labor market inequalities. I am particularly interested in the parental transmission of economic advantages 
