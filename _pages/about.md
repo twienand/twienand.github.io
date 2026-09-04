@@ -12,4 +12,4 @@ I am a fourth-year PhD candidate at the Erasmus School of Economics in Rotterdam
 In my research, I use administrative, survey, and experimental data to study the determinants of educational and labor market inequalities. 
 My core interest lies in understanding the intergenerational transmission of economic advantages and, in particular, the role of genes and parental investments.
 
-My supervisors are [Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/), [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld), and [Paul Hufe](https://paulhufe.net/). 
+My advisors are [Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/), [Niels Rietveld](https://www.eur.nl/en/people/niels-rietveld), and [Paul Hufe](https://paulhufe.net/). 
