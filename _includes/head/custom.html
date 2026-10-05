@@ -14,4 +14,9 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Keep unlisted pages (front matter `noindex: true`) out of search engines -->
+{% if page.noindex %}
+<meta name="robots" content="noindex, nofollow"/>
+{% endif %}
+
 <!-- end custom head snippets -->

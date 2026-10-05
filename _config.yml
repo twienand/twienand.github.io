@@ -290,6 +290,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # Unlisted job market paper files: keep them out of sitemap.xml
+  - scope:
+      path: "files/jmp"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
