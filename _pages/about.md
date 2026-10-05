@@ -9,6 +9,8 @@ redirect_from:
 
 I am a fourth-year PhD candidate at the Erasmus School of Economics in Rotterdam and the Tinbergen Institute, and a Marie Curie doctoral fellow within the [European Social Science Genetics Network (ESSGN)](https://essgn.org/about/).
 
+**I am on the 2026-2027 academic job market.** 
+
 In my research, I use administrative, survey, and experimental data to study the determinants of educational and labor market inequalities. 
 My core interest lies in understanding the intergenerational transmission of economic advantages and, in particular, the role of genes and parental investments.
 

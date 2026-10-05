@@ -5,14 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job market paper
 
-## Work in Progress
+**Within-family dynamics of human capital formation: Experimental evidence on parental time investment** (with Hans van Kippersluis and Niels Rietveld) 
+<br>[Draft available soon]
+
+## Working papers
 
 **Opportunity-sensitive social welfare** (with Paul Hufe, Brice Magdalou and Richard Nock)
 <br>[[Working paper](https://arxiv.org/abs/2603.26853)]
 
-**Within-family dynamics of human capital formation: Experimental evidence on parental time investment** (with Hans van Kippersluis and Niels Rietveld) 
-<br>[Draft available upon request]
+## Work in progress
 
 **Genetic and environmental contributions to socioeconomic inequality in the Netherlands — A longitudinal perspective** (with Hans van Kippersluis and Niels Rietveld)
 
