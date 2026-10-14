@@ -18,7 +18,7 @@ author_profile: true
 ## Working papers
 
 **Opportunity-sensitive social welfare** (with Paul Hufe, Brice Magdalou and Richard Nock)
-<br>[[Working paper](https://arxiv.org/abs/2603.26853)]
+<br>[[Working paper](https://arxiv.org/pdf/2603.26853)]
 
 <details class="abstract">
 <summary>Abstract</summary>
