@@ -8,7 +8,7 @@ sitemap: false
 noindex: true
 ---
 
-**Within-family dynamics of human capital formation: Experimental evidence on parental time investment** (with Hans van Kippersluis and Niels Rietveld)
+**Compensatory parental time investment: A survey experiment on beliefs and distributional preferences** (with Hans van Kippersluis and Niels Rietveld)
 
 <!-- Once the paper is uploaded as files/jmp/Wienand_JMP.pdf, replace the line below with:
 [[Download the latest version (PDF)](/files/jmp/Wienand_JMP.pdf)]
