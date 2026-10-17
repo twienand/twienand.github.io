@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job market paper
 
-**Within-family dynamics of human capital formation: Experimental evidence on parental time investment** (with Hans van Kippersluis and Niels Rietveld) 
+**Compensatory parental time investment: A survey experiment on beliefs and distributional preferences** (with Hans van Kippersluis and Niels Rietveld) 
 <br>[Draft available soon]
 
 <details class="abstract">
