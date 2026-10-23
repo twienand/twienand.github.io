@@ -11,7 +11,10 @@ author_profile: true
 
 <details class="abstract">
 <summary>Abstract</summary>
-<p>We study the determinants of parental educational time investment using a representative sample from the Netherlands. Informed by a simple model of parental time allocation, we design hypothetical scenarios to elicit beliefs about the human capital production function and within-family inequality preferences. On average, respondents clearly favor higher educational time investments in lower-ability children. Our results suggest that this compensating investment is driven by a desire to equalize educational outcomes between siblings, as well as a perceived substitutability between ability and investment. We further test the malleability of parental investment behavior in an information provision experiment that randomly assigns respondents to receive either a low or high estimate of the heritability of primary school achievement. Respondents strongly update their beliefs in response to the information provision, but the treatment does not significantly alter perceived returns to investment, distributional preferences, or time allocations.</p>
+<p>We study the determinants of parental educational time investment using a representative survey in the Netherlands. Informed by a simple model of parental time allocation, we design hypothetical scenarios to elicit beliefs about the human capital production function and preferences over within-family allocations of parental time and child outcomes. On average, respondents clearly favor higher educational time
+investments in lower-ability children. Our results suggest that this compensating investment is driven by a perceived substitutability between ability and
+investment as well as distributional preferences including a desire to equalize educational outcomes between siblings. We further test the malleability of parental investment behavior in an information provision experiment that randomly assigns respondents to receive either a low or high estimate of the heritability of primary school achievement. Respondents strongly update their beliefs in response to the
+information, but the treatment does not significantly alter perceived returns to investment, distributional preferences, or time allocations.</p>
 </details>
 
 ## Working papers
