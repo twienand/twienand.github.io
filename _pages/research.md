@@ -7,8 +7,7 @@ author_profile: true
 
 ## Job market paper
 
-**Compensatory parental time investment: A survey experiment on beliefs and distributional preferences** (with Hans van Kippersluis and Niels Rietveld) 
-<br>[Draft available soon]
+**[Compensatory parental time investment: A survey experiment on beliefs and distributional preferences](/files/Wienand_JMP.pdf)** (with Hans van Kippersluis and Niels Rietveld) 
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -17,8 +16,7 @@ author_profile: true
 
 ## Working papers
 
-**Opportunity-sensitive social welfare** (with Paul Hufe, Brice Magdalou and Richard Nock)
-<br>[[Working paper](https://arxiv.org/pdf/2603.26853)]
+**[Opportunity-sensitive social welfare](https://arxiv.org/pdf/2603.26853)** (with Paul Hufe, Brice Magdalou and Richard Nock)
 
 <details class="abstract">
 <summary>Abstract</summary>
