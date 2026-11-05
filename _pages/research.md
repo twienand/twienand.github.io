@@ -4,10 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 ## Job market paper
 
-**[Compensatory parental time investment: A survey experiment on beliefs and distributional preferences](/files/Wienand_JMP.pdf)** (with Hans van Kippersluis and Niels Rietveld) 
+**[Compensatory parental time investment: A survey experiment on beliefs and distributional preferences](/files/Wienand_JMP.pdf)** (with Hans van Kippersluis and Niels Rietveld)
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -28,10 +27,8 @@ information, but the treatment does not significantly alter perceived returns to
 
 ## Work in progress
 
-**Genetic and environmental contributions to socioeconomic inequality in the Netherlands — A longitudinal perspective** (with Hans van Kippersluis and Niels Rietveld)
+**Genetic and environmental contributions to socioeconomic inequality in the Netherlands: A longitudinal perspective** (with Hans van Kippersluis and Niels Rietveld)
 
 **A large-scale adoption study on the intergenerational mobility of education and income** (with Alexandros Giannelis and Niels Rietveld)
 
 **Family environments and the intergenerational transmission of entrepreneurship** (with Niels Rietveld)
-
-
